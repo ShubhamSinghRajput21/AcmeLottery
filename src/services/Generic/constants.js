@@ -1,0 +1,4 @@
+export default {
+  ADD_LOTTERY: "ADD_LOTTERY",
+  DELETE_LOTTERY: "DELETE_LOTTERY",
+};
